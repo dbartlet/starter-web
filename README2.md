@@ -2,7 +2,7 @@
 
 This is a simple website project for
 showing how to use GIT and GITHUB together.
-Updating for emergency fix after stashing.
+Updating for emergency fixes after stashing.
 
 ## Introduction
 
