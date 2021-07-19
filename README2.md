@@ -2,8 +2,7 @@
 
 This is a simple website project for
 showing how to use GIT and GITHUB together.
-Adding a line for the rebasing example, then
-more changes from myfeature branch as well.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
